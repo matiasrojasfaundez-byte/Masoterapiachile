@@ -1,1 +1,59 @@
-
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Relajación Terapéutica</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gradient-to-b from-pink-100 via-white to-cyan-100 text-gray-800">  <!-- HERO -->  <section class="text-center py-16 px-6">
+    <h1 class="text-4xl md:text-5xl font-bold text-pink-600 mb-4">
+      Relajación Terapéutica
+    </h1>
+    <p class="text-lg max-w-2xl mx-auto mb-6">
+      Bienestar físico y mental a través de técnicas profesionales de masoterapia.
+    </p>
+    <a href="https://wa.me/56912345678?text=Hola%20quiero%20agendar%20una%20hora"
+       class="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full text-lg shadow-lg">
+      Agendar por WhatsApp
+    </a>
+  </section>  <!-- SERVICIOS -->  <section class="py-12 px-6">
+    <h2 class="text-3xl font-bold text-center mb-10">Servicios</h2>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold text-xl mb-2">Masaje terapéutico</h3>
+        <p>Alivia tensión muscular y contracturas.</p>
+        <p class="mt-2 text-sm text-gray-500">Duración: 60 min</p>
+      </div>
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold text-xl mb-2">Masoterapia integral</h3>
+        <p>Relajación profunda y bienestar general.</p>
+        <p class="mt-2 text-sm text-gray-500">Duración: 75 min</p>
+      </div>
+      <div class="bg-white p-6 rounded-2xl shadow">
+        <h3 class="font-bold text-xl mb-2">Descontracturante</h3>
+        <p>Ideal para cuello, espalda y zona lumbar.</p>
+        <p class="mt-2 text-sm text-gray-500">Duración: 45 min</p>
+      </div>
+    </div>
+  </section>  <!-- AGENDA -->  <section class="py-12 px-6 bg-white">
+    <h2 class="text-3xl font-bold text-center mb-10">Horarios</h2>
+    <div class="max-w-xl mx-auto text-center">
+      <p><strong>Lunes a Viernes:</strong> 09:00 - 19:00</p>
+      <p><strong>Sábado:</strong> 10:00 - 14:00</p>
+      <p><strong>Domingo:</strong> Cerrado</p>
+    </div>
+  </section>  <!-- SOBRE -->  <section class="py-12 px-6">
+    <h2 class="text-3xl font-bold text-center mb-6">Sobre la profesional</h2>
+    <p class="max-w-2xl mx-auto text-center">
+      Fernanda Cornejo, especialista en masoterapia, dedicada a mejorar la calidad de vida de sus pacientes a través de técnicas terapéuticas.
+    </p>
+  </section>  <!-- CTA FINAL -->  <section class="text-center py-16 px-6">
+    <h2 class="text-2xl font-bold mb-4">Reserva tu hora hoy</h2>
+    <a href="https://wa.me/56912345678?text=Hola%20quiero%20agendar%20una%20hora"
+       class="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full text-lg shadow-lg">
+      Escribir por WhatsApp
+    </a>
+  </section>  <footer class="text-center py-6 text-sm text-gray-500">
+    © 2026 Relajación Terapéutica
+  </footer></body>
+</html>
